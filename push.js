@@ -15,4 +15,4 @@ let sub= {endpoint:
         auth:"I-ImHj80J_wugYb7miGSbQ"
         }
 };
-push.sendNotification(sub,'test message')
+push.sendNotification(sub,'Cheater boi')
